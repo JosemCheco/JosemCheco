@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JosemCheco
-- 👀 I’m interested in passing to 11th grade with good grades on software development.
+- 👀 I’m interested in passing  with good grades on software development.
 - 🌱 I’m currently learning on how to use python.
 - 💞️ I’m looking to collaborate with my class to learn.
-- 📫 How to reach me go to my school.
+- 📫 How to reach me go to....
 - 😄 Pronouns: H/im: Him.
 
 <!---
